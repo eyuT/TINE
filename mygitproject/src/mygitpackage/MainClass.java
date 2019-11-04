@@ -8,4 +8,10 @@ obj.setId(1234);
 System.out.println("name :"+obj.getName()+ " id :"+obj.getId());
 obj.display();
 	}
+	
+	
+	
+	
+	
+	
 }
