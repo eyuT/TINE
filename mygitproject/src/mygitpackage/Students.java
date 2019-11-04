@@ -1,21 +1,21 @@
 package mygitpackage;
 
-public class Student {
+public class Students {
 	int id;
 	String name;
-	public void setName(String name) {
+	public void setNames(String name) {
 		this.name=name;
 		
 	}
-	public void setId(int id) {
+	public void setIds(int id) {
 		this.id=id;
 	
 	}
-	public String getName() {
+	public String getNames() {
 		return this.name;
 		
 	}
-   public int getId() {
+   public int getIds() {
 	   return this.id;
    }
    public void display() 
