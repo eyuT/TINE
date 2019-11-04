@@ -22,4 +22,5 @@ public class Student {
    {
 	   System.out.println("name "+this.name +"id "+this.id);
    }
-}
+
+   }
